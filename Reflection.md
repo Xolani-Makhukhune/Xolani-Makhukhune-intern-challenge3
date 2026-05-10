@@ -1,7 +1,17 @@
-Reflection
-This challenge was difficult for me because I am still relatively new to Python and data analysis. The hardest part was understanding how to clean messy data correctly and knowing which assumptions were reasonable to make. At the beginning, I struggled to understand many of the pandas operations, especially functions like groupby(), apply(), and feature engineering for the prediction model. It was also challenging to understand how the forecasting model worked and how the different parts of the code connected together.
-Another challenge was dealing with inconsistent data formats. Dates, store names, provinces, and categories all appeared in multiple formats, so I had to learn how to standardise them before performing analysis. I also found it difficult to interpret the visualisations and explain the business meaning behind the graphs in a clear and non-technical way.
-One important thing I learned from this project is that data cleaning is a major part of real-world analytics work. I also learned that building a simple and understandable model is often more valuable than building a very complex one without understanding it properly.
-If I had more time, I would improve the forecasting model by using more advanced time-series techniques and adding additional features such as promotions, holidays, and customer behaviour patterns. I would also spend more time improving the visualisations and creating a more interactive dashboard to present the findings more effectively.
-Overall, this challenge helped me improve both my Python understanding and my ability to think about data from a business perspective.
+# Reflection
 
+## Hardest Part
+
+This challenge was difficult for me because I am still relatively new to Python and data analysis. The hardest part was understanding how to clean messy data correctly and knowing which assumptions were reasonable to make. At the beginning, I struggled to understand many of the pandas operations, especially functions like `groupby()`, `apply()`, and feature engineering for the prediction model. It was also challenging to understand how the forecasting model worked and how the different parts of the code connected together.
+
+Another challenge was dealing with inconsistent data formats. Dates, store names, provinces, and categories all appeared in multiple formats, so I had to learn how to standardise them before performing analysis. I also found it difficult to interpret the visualisations and explain the business meaning behind the graphs in a clear and non-technical way.
+
+## What I Learned
+
+One important thing I learned from this project is that data cleaning is a major part of real-world analytics work. I also learned that building a simple and understandable model is often more valuable than building a very complex one without understanding it properly.
+
+## What I Would Improve
+
+If I had more time, I would improve the forecasting model by using more advanced time-series techniques and adding additional features such as promotions, holidays, and customer behaviour patterns. I would also spend more time improving the visualisations and creating a more interactive dashboard to present the findings more effectively.
+
+Overall, this challenge helped me improve both my Python understanding and my ability to think about data from a business perspective.
